@@ -1,0 +1,14 @@
+# Secret files — never upload these
+.env
+*.env
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# VS Code settings
+.vscode/
+
+# Test files
+test.py
