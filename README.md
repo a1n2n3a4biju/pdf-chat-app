@@ -1,3 +1,5 @@
+<img width="656" height="635" alt="image" src="https://github.com/user-attachments/assets/2eb9970d-c571-4d45-ab8b-ac8f96b6131d" />
+
 📄 PDF Chat App
 
 An AI-powered application that lets you upload any PDF and have a conversation with it using Google Gemini AI and RAG (Retrieval Augmented Generation) technology.
